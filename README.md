@@ -1,4 +1,4 @@
-# DQN Deep Q Learning
+# DQN (Deep Q Learning)
 
 Training machines to play CarRacing 2d from OpenAI GYM by implementing Deep Q Learning/Deep Q Network(DQN) with TensorFlow and Keras as the backend.
 
@@ -12,6 +12,9 @@ We can see that the scores(time frames elapsed) stop rising after around 500 epi
 <img src="Output/Result2.gif" width="300px">
 <br>
 <img src="Output/Result3.gif" width="300px">
+
+![trial_500](https://github.com/BadakalaYashwanth/AI-NavQuest-Reinforced-Autonomous-Exploration/assets/170221536/74988ab2-a13c-4a10-80f9-4541f0777e26)
+
 
 ## File Structure
 
