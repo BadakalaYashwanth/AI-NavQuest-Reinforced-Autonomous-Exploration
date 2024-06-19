@@ -1,4 +1,4 @@
-# DQN
+# DQN Deep Q Learning
 
 Training machines to play CarRacing 2d from OpenAI GYM by implementing Deep Q Learning/Deep Q Network(DQN) with TensorFlow and Keras as the backend.
 
